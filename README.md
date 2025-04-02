@@ -1,4 +1,4 @@
-# HTMLToTrees
+# 🌳 HTMLToTrees
 
 ## Descripción
 HTMLToTrees es una aplicación Java que permite visualizar la estructura de documentos HTML en forma de árboles. Desarrollada en 2022, esta herramienta facilita el análisis y comprensión de la jerarquía de elementos HTML.
