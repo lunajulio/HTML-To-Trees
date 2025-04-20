@@ -4,9 +4,9 @@
 HTMLToTrees es una aplicación Java que permite visualizar la estructura de documentos HTML en forma de árboles. Desarrollada en 2022, esta herramienta facilita el análisis y comprensión de la jerarquía de elementos HTML.
 
 ## Autores
-- Jason Estrada (@JasonEstrada)
-- Luna Julio (@lunajulio) 
-- Sebastián Padilla (@sebastianpadilla02)
+- [![Author](https://img.shields.io/badge/by-JasonEstrada-blue)](https://github.com/JasonEstrada)
+- [![Author](https://img.shields.io/badge/by-lunajulio-blue)](https://github.com/lunajulio)
+- [![Author](https://img.shields.io/badge/by-sebastianpadilla02-blue)](https://github.com/sebastianpadilla02)
 
 ## Características
 - Conversión de código HTML a una estructura de árbol visual
